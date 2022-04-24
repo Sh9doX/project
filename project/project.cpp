@@ -478,6 +478,6 @@ for (vector<int>::iterator pars_it = pars.begin(); pars_it < pars.end(); pars_it
 	}
 	ind++;
 }//цикл, проверяющий верность/неверность ответов пользователя
-
+system ("pause");
 return 0;
 }
